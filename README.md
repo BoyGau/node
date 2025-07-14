@@ -5,3 +5,4 @@ run validator node 1
 today
 Run node Axone Mainet
 Run node Kopi Mainet
+Run node Arkeo Mainet
