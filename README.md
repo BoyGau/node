@@ -6,3 +6,4 @@ today
 Run node Axone Mainet
 Run node Kopi Mainet
 Run node Arkeo Mainet
+Run node Tac-Chain
