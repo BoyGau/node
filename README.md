@@ -9,3 +9,4 @@ Run node Arkeo Mainet
 Run node Tac-Chain
 Run Node Galactica
 Run node xos
+Run node tacchain 
