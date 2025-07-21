@@ -11,3 +11,4 @@ Run Node Galactica
 Run node xos
 Run node tacchain 
 Run node 
+Run more node Airrchain
