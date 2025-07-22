@@ -2,7 +2,7 @@
 about me
 run validator node 1
 1
-today
+toda
 Run node Axone Mainet
 Run node Kopi Mainet
 Run node Arkeo Mainet
