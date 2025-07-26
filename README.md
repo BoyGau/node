@@ -1,7 +1,6 @@
 #node
 about me
 run validator node 1
-
 toda
 Run node Axone Mainet
 Run node Kopi Mainet
