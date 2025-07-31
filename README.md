@@ -1,5 +1,4 @@
-#node 
-about me
+#node about me
 run validator node 1
 Run node Axone Mainet
 Run node Kopi Mainet
