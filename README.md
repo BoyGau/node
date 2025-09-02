@@ -11,7 +11,7 @@ Run more node Airrchain1
 Run node ar
 Run node Pipe  
 Run node Octra  
-Run node Bitbadge
+Run node Bitbadge 
 Run node Hedge 
  
  
