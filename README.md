@@ -8,7 +8,7 @@ Run Node Galactica
 Run node xos           
 Run node tacchain        
 Run more node Airrchain1      
-Run node ar   
+Run node ar    
 Run node Pipe    
 Run node Octra    
 Run node Bitbadge  
