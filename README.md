@@ -12,6 +12,6 @@ Run node ar
 Run node Pipe    
 Run node Octra    
 Run node Bitbadge  
-Run node Hedge  
+Run node Hedge   
     
  
