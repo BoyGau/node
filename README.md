@@ -5,7 +5,7 @@ Run node Kopi Mainet
 Run node Arkeo Mainet           
 Run node Tac-Chain   
 Run Node Galactica       
-Run node xos           
+Run node xos            
 Run node tacchain         
 Run more node Airrchain1        
 Run node ar    
