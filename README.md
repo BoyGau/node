@@ -12,7 +12,7 @@ Run node ar
 Run node Pipe   
 Run node Bitbadge        
 Run node Hedge       
-un node terra
+Run node terra
    
   
  
