@@ -2,7 +2,7 @@
 run validator node    
 Run node Axone Mainet       
 Run node Kopi Mainet              
-Run node Arkeo Mainet 
+Run node Arkeo Mainet  
 Run node Tac-Chain 
 Run Node Galactica  
 Run node xos                      
